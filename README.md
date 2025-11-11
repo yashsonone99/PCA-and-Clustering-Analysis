@@ -1,4 +1,4 @@
-# 🧮 Principal Component Analysis (PCA) — Dimensionality Reduction & Clustering
+# 🧮 Principal Component Analysis (PCA) Dimensionality Reduction & Clustering
 
 This project demonstrates how **Principal Component Analysis (PCA)** can be used to reduce dataset dimensionality while retaining most of the variance.  
 We also compare **K-Means clustering performance** before and after PCA using the **Wine dataset**.
