@@ -29,10 +29,3 @@ We also compare **K-Means clustering performance** before and after PCA using th
 ✔ Improved clustering efficiency after dimensionality reduction  
 ✔ Visualized clean cluster separation in PCA-reduced space  
 ✔ Demonstrated trade-offs between variance retention and interpretability  
-
----
-
-## ⚙️ How to Run
-```bash
-pip install -r requirements.txt
-python PCA.ipynb
